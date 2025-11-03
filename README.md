@@ -34,10 +34,10 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) and ser
 ### 🔐 Login Page
 ![Login Screenshot](./screenshots/login.png)
 
-### 🏠 Home Page
+### 🏠 Admin Page
 ![Admin Screenshot](./screenshots/admin.png)
 
-### ➕ Add Employee
+### ➕ Employee Page
 ![Employee Screenshot](./screenshots/employee.png)
 
 
