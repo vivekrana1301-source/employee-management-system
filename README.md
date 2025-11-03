@@ -1,3 +1,13 @@
+# 👨‍💻 Author
+
+**Vivek Rana**  
+📧 [vivekrana1301@gmail.com]  
+🌐 [https://github.com/vivekrana](https://github.com/vivekrana1301)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/vivek-rana-844679309) 
+
+
+
+
 # 🧑‍💼 Employee Management System
 
 A simple **Employee Management System** built using **React, Vite, and Tailwind CSS**, where employee data is stored in **localStorage** (no backend).  
